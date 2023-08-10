@@ -1,1 +1,2 @@
 # Odin-Recipes
+Odin Recipes is the current project I am working on. The goal is to create a website using html that demonstrates various food recipes. The skills that will be demonstrated in the project include the use of the various elements of html.
